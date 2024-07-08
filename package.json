@@ -1,0 +1,14 @@
+{
+  "name": "init-web-app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "sh ./init.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "patch-package": "^8.0.0"
+  }
+}
